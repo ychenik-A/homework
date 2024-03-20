@@ -1,0 +1,35 @@
+div {
+    color: red;
+}
+
+.block {
+    color: #32cc66;
+}
+
+#id-block {
+    color: #222cb48a;
+}
+
+[data-example] {
+    color: #22b4298a;
+}
+
+[data-example="value1"] {
+    color: #4b2cd4;
+}
+
+.block1, .block3, block4 {
+    color: #95f725;
+}
+
+div.blue-block {
+    color: #ff1dc68a;
+}
+
+div .orange {
+    color: orange;
+}
+
+.parent>.child {
+    color: #ff43c7;
+}
