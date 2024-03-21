@@ -1,0 +1,40 @@
+body {
+    font-size: 40px;
+}
+
+/* ------------------------- */
+
+.block {
+    width: 600px;
+    height: 300px;
+}
+
+.block2 {
+    max-width: 1000px;
+    min-height: 100px;
+}
+
+.img {
+    width: 1100px;
+    height: 500px;
+}
+
+.img2 {
+    max-width: 1500px;
+    min-width: 200px;
+    max-height: 1500px;
+    min-height: 200px;
+}
+
+.block3 {
+    width: 1400px;
+    height: 900px;
+}
+
+.div{
+    max-width: 1500px;
+    min-width: 300px;
+    max-height: 800px;
+    min-height: 500px;
+    background: rgb(121, 126, 111);
+}
