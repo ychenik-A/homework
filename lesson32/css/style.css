@@ -1,0 +1,30 @@
+.block {
+    margin: 100px 50px 30px;
+    border: 5px solid #000;
+    border-radius: 10px;;
+}
+
+.block2 {
+    margin: 150px 70px;
+    border: 10px double #000;
+    border-radius: 10px;
+}
+
+.block3 {
+    margin: 170px 30px;
+    border: 8px dotted #000;
+}
+
+.block4 {
+    padding: 50px;
+    border: 8px dashed #000;
+}
+
+.block5 {
+    margin: 50px;
+    border: 10px groove #e91818;
+}
+
+img {
+    border-radius: 100px;
+}
