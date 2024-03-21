@@ -1,0 +1,40 @@
+.block {
+    width: 400px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.block2 {
+    width: 400px;
+    display: inline-block;
+    margin: 50px;
+
+}
+
+img {
+    box-shadow: 17px 17px 17px #aa9e32;
+    border-radius: 20px;
+}
+
+.block3 {
+    width: 400px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.block4 {
+    width: 400px;
+    display: inline-block;
+    margin: 50px;
+
+}
+
+.img2 {
+    box-shadow: 17px 17px 17px #aa9e32;
+    border-radius: 20px;
+    display: block;
+}
+
+.div {
+    margin: 200px 50px;
+}
