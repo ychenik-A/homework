@@ -1,0 +1,38 @@
+body {
+    font-size: 20px;
+}
+
+/* --------------------------------------- */
+
+.block {
+    margin: 100px 50px 30px;
+    opacity: .3;
+}
+
+.block2 {
+    margin: 150p 70p;
+    visibility: hidden;
+}
+
+.block3 {
+    width: 200px;
+    height: 300px;
+    overflow: scroll;
+}
+
+.block4 {
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    background: #cfc0c0;
+}
+
+span {
+    opacity: .5;
+}
+
+img {
+    display:block;
+    margin: 100px 20px;
+    opacity: .3;
+}
