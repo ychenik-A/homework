@@ -1,0 +1,15 @@
+.block {
+    margin: 50px;
+    box-shadow: -7px 7px 7px #aa9e32, 7px -7px 7px #aa9e32;
+}
+
+.block2 {
+    margin: 50px;
+    box-shadow: inset 7px 7px 7px #aa9e32;
+    border-radius: 10px;
+}
+
+img {
+    box-shadow: 17px 17px 17px #aa9e32;
+    border-radius: 20px;
+}
