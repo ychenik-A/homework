@@ -16,5 +16,21 @@ function numbersAppraiser(array) {
     }
 }
 
+const resultat = numbersAppraiser(numbers)
 
 
+
+function calculate(num1, num2, item) {
+    if (item === 'minus') {
+        return num1 - num2
+    } else if (item === 'plus') {
+        return num1 + num2
+    } else if (item === "division") {
+        return num1 / num2
+    } else if (item === 'multiplication') {
+        return num1 * num2
+    }
+}
+
+const resultate = calculate
+console.log(resultate(0, 0, 'minus'))
